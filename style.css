@@ -1,0 +1,97 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F4F4F4;
+}
+
+.entete {
+    background-color: #E60012;
+    height: 100px;
+}
+
+#ent1 {
+    float: left;
+    display: inline-block;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+
+#ent2 {
+    float: right;
+    display: inline-block;
+    margin-top: 7px;
+
+}
+
+#ent3 {
+    float: right;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+#ent4 {
+    float: right;
+    display: inline-block;
+    margin-right: 20px;
+    margin-top: 7px;
+}
+
+#commande {
+    display: inline-block;
+    width: 90px;
+}
+
+.liste {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.piste {
+    display: block;
+    vertical-align: top;
+}
+
+.mesure1 {
+    padding-top: 10px;
+    padding-left: 5px;
+}
+
+.mesure2 {
+    padding-top: 10px;
+}
+
+.mesure3 {
+    padding-left: 5px;
+}
+
+.jeu1 {
+    width: 300px;
+
+}
+
+.jeu2 {
+    width: 600px;
+}
+
+.jeu3 {
+    width: 500px;
+    display: block;
+}
+
+.taille {
+    width: 900px;
+}
+
+.page1 {
+    margin-left: 90px;
+    margin-top: 50px;
+}
+
+.page2 {
+    margin-left: 90px;
+    margin-top: 30px;
+}
